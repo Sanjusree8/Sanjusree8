@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjana
-- 👀 I’m interested in AI,DL,ML,DS.
-- 🌱 I’m currently learning DL
+- 👀 I’m passionate about AI,DL,ML,DS.
+- 🌱 I’m currently looking for oppurtunity as a datascientist 
 - 💞️ I’m looking to collaborate on ML
 - 📫 Reach me by mail: matecharlasanjana9@gmail.com
 
